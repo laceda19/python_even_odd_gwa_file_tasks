@@ -1,0 +1,3 @@
+ Today I learned Python file handling.
+It is easier that i expected.
+I will practice more to improve my skills.
