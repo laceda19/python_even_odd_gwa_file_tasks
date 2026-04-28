@@ -1,20 +1,20 @@
-AbeGail Fernandez,1.5
-Ameer Oquendo,2.0
-Andrei Magallanes,1.25
-Angela Lucban,1.75
-Aprilvalerie Punzalan,1.5
-Baydo Patrick John Delfin,2.25
-Bea Vicente,1.75
-Charles Esperanza,2.0
-Clarisse Ballesteros,1.25
-Dan Efraim Hernandez,1.5
-Daniel Botoy,2.25
-Danita Velasquez,1.75
-Doluel Mikhail Babaran,2.0
-Emmanuel Ken Ciriaco Empestan,1.25
-Eugene Mabansag,1.75
-Eugene Manalo,2.5
-Eun Duruin,1.5
-Faye Triumfante,2.0
-Fiona Marie,1.25
-Franz Gabriel Aldos,1.75
+Gela Rei Laceda,98
+AbeGail Fernandez,92
+Ameer Oquendo,88
+Andrei Magallanes,95
+Angela Lucban,90
+Aprilvalerie Punzalan,93
+Baydo Patrick John Delfin,87
+Bea Vicente,91
+Charles Esperanza,89
+Clarisse Ballesteros,96
+Dan Efraim Hernandez,94
+Daniel Botoy,86
+Danita Velasquez,90
+Doluel Mikhail Babaran,88
+Emmanuel Ken Ciriaco Empestan,97
+Eugene Mabansag,91
+Eugene Manalo,85
+Eun Duruin,93
+Faye Triumfante,89
+Fiona Marie,96
